@@ -11,7 +11,7 @@ assignees: ''
 > 코드에 대한 설명
 
 ## 진행 상황
-- [ ] todo1
+- [X] todo1 체크박스 사이에 X넣으면 됨
 - [ ] todo2
 - [ ] todo3
 
