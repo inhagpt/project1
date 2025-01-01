@@ -11,8 +11,8 @@ assignees: ''
 > 코드에 대한 설명
 
 ## 진행 상황
-- [ ] todo1
-- [ ] todo2
+- [v] todo1
+- [v] todo2
 - [ ] todo3
 
 ## 부가 설명
